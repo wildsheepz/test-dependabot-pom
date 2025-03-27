@@ -28,7 +28,7 @@
 		<httpclient.version>4.5.13</httpclient.version>
 		<junit.version>4.12</junit.version>
 		<spring.cloud.version>3.1.1</spring.cloud.version>
-		<cucumber.version>6.8.0</cucumber.version>
+		<cucumber.version>3.0.1</cucumber.version>
 		<mockserver-netty.version>5.10.0</mockserver-netty.version>
 		<mariadb4j.version>2.4.0</mariadb4j.version>
 		<commons-io.version>2.11.0</commons-io.version>
