@@ -22,7 +22,7 @@
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
 		<web3j.version>4.9.0</web3j.version>
-		<okhttp.version>4.9.3</okhttp.version>
+		<okhttp.version>3.0.0</okhttp.version>
 		<commons-lang3.version>3.11</commons-lang3.version>
 		<lombok.version>1.18.18</lombok.version>
 		<httpclient.version>4.5.13</httpclient.version>
