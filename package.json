@@ -1,5 +1,5 @@
 {
-  "name": "test-dependabot-npm"
+  "name": "test-dependabot-npm",
   "main": "main.js",
   
   "dependencies": {
