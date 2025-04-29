@@ -3,3 +3,4 @@ updates:
   - package-ecosystem: "npm"
     ignore:
       - dependency-name: "@openzeppelin/contracts"
+        applies-to: security-updates
