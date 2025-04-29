@@ -1,5 +1,5 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
-  ignore:
+  - package-ecosystem: "npm_and_yarn"
+    ignore:
       - dependency-name: "@openzeppelin/contracts"
